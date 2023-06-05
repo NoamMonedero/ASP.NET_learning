@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MVC_Tutorial"
+    "\\MVC_Tutorial",
+    "\\MVC_Tutorial\\MvcMovie",
+    "\\RazorPagesTutorial"
   ],
   "SelectedNode": "\\MVC_Tutorial",
   "PreviewInSolutionExplorer": false
