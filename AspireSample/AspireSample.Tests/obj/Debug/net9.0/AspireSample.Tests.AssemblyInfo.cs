@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireSample.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f70696aaa6824da809c7c042ee07cf1fcdfb2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireSample.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireSample.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

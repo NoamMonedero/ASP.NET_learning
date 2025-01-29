@@ -18,14 +18,15 @@ using System.Reflection;
     "xt\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\noamm\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
     "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\noamm\\source\\repos\\AspireSample\\AspireSample.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\noamm\\source\\repos\\Microsoft\\ASP.NET_learning\\AspireSample\\AspireSample." +
+    "AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "AspireSample.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\noamm\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
     "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspireSample.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2f70696aaa6824da809c7c042ee07cf1fcdfb2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspireSample.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspireSample.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
